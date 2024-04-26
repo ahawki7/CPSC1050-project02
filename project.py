@@ -5,7 +5,9 @@ Assignment:     Project 02
 Course:         CPSC1051
 Lab Section:    001
 
-CODE DESCRIPTION: In this code, the user will be navigating a role playing game where they will be in a musuem and going room to room collecting artifacts. The goal of this is to collect the right items to give to the mummy so that they can escape the museum.  
+CODE DESCRIPTION: In this code, the user will be navigating a role playing game where they will be in a musuem and going room to room collecting artifacts. The goal of this is to collect the right items to give to the mummy so that they can escape the museum. 
+
+GITHUB LINK: https://github.com/ahawki7/CPSC1050-project02.git
 """
 
 import sys #ability to access other modules
